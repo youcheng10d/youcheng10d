@@ -9,7 +9,7 @@
 说一句偏好（“减肥、预算 15 元、不想吃辣”），它从真实菜品库里挑出一道菜，并告诉你去哪个食堂、哪个档口。目前已录入重庆城市科技学院两个食堂的 1143 道菜、49 个档口，纯前端、零后端、零构建工具。
 
 - 仓库：[youcheng10d/what-to-eat](https://github.com/youcheng10d/what-to-eat)
-- 开发日志：[v0.1](https://github.com/youcheng10d/what-to-eat/blob/main/docs/blog/blog-01-v0.1.md) ｜ [v1.0](https://github.com/youcheng10d/what-to-eat/blob/main/docs/blog/blog-02-v1.0.md) ｜ [v1.2](https://github.com/youcheng10d/what-to-eat/blob/main/docs/blog/blog-03-v1.2.md)
+- 开发日志：[v0.1](https://github.com/youcheng10d/what-to-eat/blob/main/docs/blog/blog-01-v0.1.md) ｜ [v1.0](https://github.com/youcheng10d/what-to-eat/blob/main/docs/blog/blog-02-v1.0.md) ｜ [v1.2](https://github.com/youcheng10d/what-to-eat/blob/main/docs/blog/blog-03-v1.2.md) ｜ [v2.0](https://github.com/youcheng10d/what-to-eat/blob/main/docs/blog/blog-04-v2.0.md)
 
 ## 技术栈
 
