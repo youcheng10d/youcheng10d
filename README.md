@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero.png" alt="游城 youcheng · 在读学生 · 移动端前端" width="100%">
+</p>
+
 # 你好，我是 youcheng10d
 
 做移动端前端，正在把“今天吃啥”这件小得不能再小的事，做成一个完整的产品。
